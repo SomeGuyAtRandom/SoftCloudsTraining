@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="api/api.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="firefox" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="api/Controllers/SoftCloudsController.cs">
+    <Files>
+      <File FileName="api/Notes/spec-notes.txt" Line="15" Column="49" />
+      <File FileName="api/Scripts/MyScripts.js" Line="51" Column="7" />
+      <File FileName="api/Views/Home/Index.cshtml" Line="5" Column="1" />
+      <File FileName="api/Controllers/SoftCloudsController.cs" Line="44" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

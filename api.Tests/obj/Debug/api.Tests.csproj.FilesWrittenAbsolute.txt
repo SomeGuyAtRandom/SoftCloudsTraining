@@ -1,0 +1,15 @@
+/home/someguy/Projects/SoftClouds/api/api.Tests/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/api.Tests.dll.mdb
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/api.Tests.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/obj/Debug/api.Tests.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/obj/Debug/api.Tests.dll.mdb
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/Microsoft.Web.Infrastructure.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/System.Web.Razor.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/System.Web.Helpers.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/System.Web.WebPages.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/System.Web.WebPages.Deployment.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/System.Web.WebPages.Razor.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/System.Web.Mvc.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/nunit.framework.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/api.dll
+/home/someguy/Projects/SoftClouds/api/api.Tests/bin/Debug/api.dll.mdb

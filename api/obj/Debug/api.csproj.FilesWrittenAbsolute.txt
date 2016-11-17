@@ -1,0 +1,12 @@
+/home/someguy/Projects/SoftClouds/api/api/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/someguy/Projects/SoftClouds/api/api/bin/api.dll.mdb
+/home/someguy/Projects/SoftClouds/api/api/bin/api.dll
+/home/someguy/Projects/SoftClouds/api/api/obj/Debug/api.dll
+/home/someguy/Projects/SoftClouds/api/api/obj/Debug/api.dll.mdb
+/home/someguy/Projects/SoftClouds/api/api/bin/Microsoft.Web.Infrastructure.dll
+/home/someguy/Projects/SoftClouds/api/api/bin/System.Web.Razor.dll
+/home/someguy/Projects/SoftClouds/api/api/bin/System.Web.Helpers.dll
+/home/someguy/Projects/SoftClouds/api/api/bin/System.Web.WebPages.dll
+/home/someguy/Projects/SoftClouds/api/api/bin/System.Web.WebPages.Deployment.dll
+/home/someguy/Projects/SoftClouds/api/api/bin/System.Web.WebPages.Razor.dll
+/home/someguy/Projects/SoftClouds/api/api/bin/System.Web.Mvc.dll

@@ -1,0 +1,48 @@
+﻿@model api.Models.Candidate
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TestViewer</title>
+</head>
+<body>
+@using (Html.BeginForm("Candidate", "SoftClouds", FormMethod.Post))  
+{
+<table>
+	<tr>
+		<td><b>Field</b></td>
+		<td><b>Value</b></td>
+	</tr>
+	<tr>
+		<td>@Html.DisplayNameFor(model => model.Name)</td>
+		<td>
+			@Html.EditorFor(model => model.Name) 
+            @Html.ValidationMessageFor(model => model.Name) 
+		</td>
+	</tr>
+	<tr>
+		<td>@Html.DisplayNameFor(model => model.YearsOfExperience)</td>
+		<td>
+			@Html.EditorFor(model => model.YearsOfExperience) 
+            @Html.ValidationMessageFor(model => model.YearsOfExperience) 
+		</td>
+	</tr>
+
+
+
+</table>
+<input type="submit" value="Submit to Candidate" /> 
+}
+
+
+<br/>
+
+@Html.ActionLink("Make Get Request on Candidate", "Candidate")
+
+</body>
+</html>
+
